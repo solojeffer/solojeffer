@@ -14,7 +14,7 @@
 - 📈 I love transforming raw data into insights, dashboards, and predictive models.
 - 🌎 Proudly from **Cúcuta**, Colombia 🇨🇴 — my hometown and a big fan of **vallenato** 🎶.
 - 📫 Contact me here: **jefhersay@gmail.com**
-- 🌐 Portfolio: [prtfol.com/solojeffer](https://www.prtfol.com/solojeffer)
+- 🌐 Portfolio: [solojeffer.com](https://www.solojeffer.com)
 
 
 ---
